@@ -12,14 +12,14 @@ Git is a version control system used for tracking changes in computer files. It 
 
 ## Index
 
-	[git & github] (#https://github.com/abefimrs/depOps-book/tree/main/git%26github)
-		[git Fundamentals] ()
+	[git & github](#https://github.com/abefimrs/depOps-book/tree/main/git%26github)
+		[git Fundamentals]
 		[git Workflow]
 		[git explorer]
 		[Advanced git Topics]
 		[Best Practices]
 
-	[CI/CD
+	[CI/CD]
 		[Introduction]
 		[Tools]
 		[CI/CD Basics]
