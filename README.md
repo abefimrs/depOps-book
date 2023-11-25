@@ -2,6 +2,7 @@
 
 Git is a version control system used for tracking changes in computer files. It is generally used for source code management in software development.
 
+`Note`
 	- Git is used to tracking changes in the source code
 	- The distributed version control tool is used for source code management
 	- It allows multiple developers to work together
@@ -10,21 +11,22 @@ Git is a version control system used for tracking changes in computer files. It 
 
 
 
+
 ## Table of Contents
 
-  -[git & github](https://github.com/abefimrs/depOps-book/tree/main/git%26github)
-   - [git Fundamentals]
-   - [git Workflow]
-   - [git explorer]
-   - [Advanced git Topics]
-   - [Best Practices]
+  - [git & github](https://github.com/abefimrs/depOps-book/tree/main/git%26github)
+  - [git Fundamentals](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Git%20Fundamentals)
+  - [git Workflow](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Git%20Workflow)
+  - [git explorer](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Git%20explorer)
+  - [Advanced git Topics](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Advanced%20Git%20Topics)
+  - [Best Practices](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Best%20Practices)
 
-  - [CI/CD]
-   - [Introduction]
-   - [Tools]
-   - [CI/CD Basics]
-   - [Case Studies]
-   - [Best Practices]
+  - [CI/CD]()
+  - [Introduction](https://github.com/abefimrs/depOps-book/tree/main/CI-CD/Introduction)
+  - [Tools]()
+  - [CI/CD Basics]()
+  - [Case Studies]()
+  - [Best Practices]()
 
 
 ## The Importance of Git in DevOps
