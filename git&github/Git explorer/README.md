@@ -6,9 +6,9 @@ The `git restore` command is used in Git to restore working tree files or to res
 
 To discard changes in the working directory for a specific file:
 
-`code
+``
 git restore <file>
-`
+``
 
 
 To restore a file to a specific commit or branch:
