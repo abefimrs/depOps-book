@@ -31,8 +31,13 @@ git restore --source=<commit or branch> <file>
 
  git restore myfile.txt
 
+ > git restore <directory>
+
+ > git restore .
+
 
 Restore from a Specific Commit
+
 	Restore a file to its state in a specific commit:
 
 
