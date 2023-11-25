@@ -14,19 +14,19 @@ Git is a version control system used for tracking changes in computer files. It 
 
 ## Table of Contents
 
-  - [git & github](https://github.com/abefimrs/depOps-book/tree/main/git%26github)
-  - [git Fundamentals](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Git%20Fundamentals)
-  - [git Workflow](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Git%20Workflow)
-  - [git explorer](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Git%20explorer)
-  - [Advanced git Topics](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Advanced%20Git%20Topics)
-  - [Best Practices](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Best%20Practices)
+1. [git & github](https://github.com/abefimrs/depOps-book/tree/main/git%26github)
+  1.1 [git Fundamentals](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Git%20Fundamentals)
+  1.2 [git Workflow](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Git%20Workflow)
+  1.3 [git explorer](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Git%20explorer)
+  1.4 [Advanced git Topics](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Advanced%20Git%20Topics)
+  1.5 [Best Practices](https://github.com/abefimrs/depOps-book/tree/main/git%26github/Best%20Practices)
 
-  - [CI/CD]()
-  - [Introduction](https://github.com/abefimrs/depOps-book/tree/main/CI-CD/Introduction)
-  - [Tools]()
-  - [CI/CD Basics]()
-  - [Case Studies]()
-  - [Best Practices]()
+2. [CI/CD]()
+ 2.1 [Introduction](https://github.com/abefimrs/depOps-book/tree/main/CI-CD/Introduction)
+ 2.2 [Tools]()
+ 2.3 [CI/CD Basics]()
+ 2.4 [Case Studies]()
+ 2.5 [Best Practices]()
 
 
 ## The Importance of Git in DevOps
